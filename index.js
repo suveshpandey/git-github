@@ -8,7 +8,3 @@ greet("suvesh");
 
 console.log("this is the end.");
 //this has been changed in the 2nd commit
-
-
-//this has been changed in the 3rd commit
-
