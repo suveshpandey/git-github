@@ -12,3 +12,5 @@ console.log("this is the end.");
 function feature(){
     console.log("new branch added -> sp298")
 }
+
+console.log("commit 2 of sp298")
