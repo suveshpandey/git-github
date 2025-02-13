@@ -14,3 +14,6 @@ function feature(){
 }
 
 console.log("commit 2 of sp298")
+
+
+//this has been written in branch - b2
